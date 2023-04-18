@@ -9,3 +9,5 @@
   
   To import the .obj file created using Lama AI, the location of the file is defined in the script. 
   The .obj file is then called and the object will be created in the defined location. 
+  
+  The result can be seen in result.png file 
